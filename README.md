@@ -7,6 +7,10 @@
 Autonomous Robots · Embedded Systems · ML & Data Science  
 *Deeply fascinated by mathematics and the beauty of its theories*
 
+<div align="center">
+  <p>✨ <em>Driven by curiosity and a deep love for learning — from robotics to mathematics to machine learning, I chase understanding wherever it leads.</em></p>
+</div>
+
 ![Robotics](https://img.shields.io/badge/🤖-Robotics-1D9E75?style=flat-square)
 ![Navigation](https://img.shields.io/badge/📡-Navigation_Systems-378ADD?style=flat-square)
 ![Communications](https://img.shields.io/badge/📡_Communications-378ADD?style=flat-square)
@@ -53,9 +57,12 @@ Communication & Electronics Engineering student at **Alexandria University**, an
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-
-
 ---
+## ✨ A Thought That Drives Me
+
+> *"Mathematics is the language in which God has written the universe."*  
+> — Galileo Galilei
+----
 
 ## 📬 Let's Connect
 
