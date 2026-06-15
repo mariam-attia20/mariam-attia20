@@ -9,7 +9,7 @@ Autonomous Robots · Embedded Systems · ML & Data Science
 
  <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=#E74C3C&center=true&vCenter=true&width=600&lines=✨+Driven+by+curiosity+and+a+deep+love+for+learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E74C3C&center=true&vCenter=true&width=600&lines=✨+Driven+by+curiosity+and+a+deep+love+for+learning...)](https://git.io/typing-svg)
 
 </div>
 
