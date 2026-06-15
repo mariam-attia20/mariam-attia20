@@ -7,9 +7,12 @@
 Autonomous Robots · Embedded Systems · ML & Data Science  
 *Deeply fascinated by mathematics and the beauty of its theories*
 
-<div align="center">
-  <p>✨ <em>Driven by curiosity and a deep love for learning — from robotics to mathematics to machine learning, I chase understanding wherever it leads.</em></p>
+ <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=✨+Driven+by+curiosity+and+a+deep+love+for+learning...;From+robotics+to+mathematics+to+machine+learning...;I+chase+understanding+wherever+it+leads.)](https://git.io/typing-svg)
+
 </div>
+
 
 ![Robotics](https://img.shields.io/badge/🤖-Robotics-1D9E75?style=flat-square)
 ![Navigation](https://img.shields.io/badge/📡-Navigation_Systems-378ADD?style=flat-square)
