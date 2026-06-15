@@ -57,18 +57,6 @@ Communication & Electronics Engineering student at **Alexandria University**, an
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mariam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariam-attia20&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-attia20&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mariam-attia-09a63a362?utm_source=share_via&utm_content=profile&utm_medium=member_android))
